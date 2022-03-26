@@ -12,8 +12,6 @@ typedef  struct {
   address endereco;
 } person;
 
-
-
 int main(void) {
 
   person person1;
